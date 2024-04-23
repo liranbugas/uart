@@ -1,2 +1,2 @@
 # uart
-uart example
+uart example example that sends and read data
